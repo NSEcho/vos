@@ -1,6 +1,5 @@
 #import <Foundation/Foundation.h>
 #import <AppKit/AppKit.h>
-#include <ptrauth.h>
 
 #define STACK_SIZE 65536
 #define CODE_SIZE 112
