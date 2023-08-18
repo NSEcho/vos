@@ -6,5 +6,6 @@ macOS software vulnerabilities I have discovered along with the vulnerable softw
 * [ShadowsocksX-NG](./ShadowsocksX-NG) - CVE-2023-27574 - Code injection abusing `com.apple.security.get-task-allow`.
 * [Tunnelblick](./Tunnelblick) - Arbitrary File Overwrite to overwrite root-owned files
 * [Tunnelblick](./Tunnelblick) - "Assisted" LPE abusing .ovpn files
+* [UninstallPKG](./UninstallPKG) - Arbitrary File Delete (affects also root-owned files)
 * COORDINATION PROCESS - Race condition to LPE in VPN solution
 * COORDINATION PROCESS - Local Privilege Escalation in one of the most popular macOS apps
