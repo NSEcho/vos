@@ -9,4 +9,3 @@ macOS software vulnerabilities I have discovered along with the vulnerable softw
 * [Tunnelblick](./Tunnelblick) - "Assisted" LPE abusing .ovpn files
 * [UninstallPKG](./UninstallPKG) - Arbitrary File Delete (affects also root-owned files)
 * [MacUpdater](./MacUpdater) - CVE-2023-41902 - Local Privilege Escalation abusing `xpc_connection_get_pid`
-* COORDINATION PROCESS - Race condition to LPE in VPN solution
